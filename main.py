@@ -11,8 +11,8 @@ def my_max(a, b):
         print(str(b) + ' > ' + str(a))
 
 
-x = int(input('Inserire primo numero: '))
-y = int(input('Inserire secondo numero: '))
+x = float(input('Inserire primo numero: '))
+y = float(input('Inserire secondo numero: '))
 my_max(x, y)
 print('Usando max')
 print(max(x, y))

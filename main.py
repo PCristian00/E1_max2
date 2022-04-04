@@ -14,3 +14,5 @@ def my_max(a, b):
 x = input('Inserire primo numero: ')
 y = input('Inserire secondo numero: ')
 my_max(x, y)
+print('Usando max')
+print(max(x,y))

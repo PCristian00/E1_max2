@@ -1,5 +1,5 @@
 def my_max(a, b):
-    print(str(a)+' ? '+str(b))
+    print(' a '+str(a)+' b '+str(b))
     if a == b:
         print('I numeri sono identici')
         print(str(a) + ' == ' + str(b))
